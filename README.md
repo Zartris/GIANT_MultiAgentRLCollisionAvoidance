@@ -1,10 +1,9 @@
-# Global Path Integration and Attentive Graph Networks for Multi-Agent Collision Avoidance
+# GIANT - Global Path Integration and Attentive Graph Networks for Multi-Agent Trajectory Planning
 | <img src="docs/doorway_800x600.gif" alt="GIF 1" width="380"/> | <img src="docs/circle_800x600.gif" alt="GIF 2" width="380"/> |
 |:---------------------------------------------------------:|:---------------------------------------------------------:|
 | <img src="docs/hallway_800x600.gif" alt="GIF 3" width="380"/> | <img src="docs/random_800x600.gif" alt="GIF 4" width="380"/> |
-## 🚨 **Paper Under Review** 🚨
-### **Everything will be visible when accepted.**
-This repository contains the official implementation of the paper **"Cooperative multi-agent collision avoidance with attentive graph networks and global path integration"**. This work introduces a novel approach to multi-robot collision avoidance, integrating global path planning with local navigation strategies.
+## 🚨 **Code comming soon** 🚨
+This repository contains the official implementation of the paper **"GIANT - Global Path Integration and Attentive Graph Networks for Multi-Agent Trajectory Planning"**. This work introduces a novel approach to multi-robot collision avoidance, integrating global path planning with local navigation strategies.
 
 The main contributions of this work include:
 - We introduce a local navigation model that incorporates global path information within the observation space, enabling the agent to maintain adherence to pre-planned routes while reacting to dynamic changes in the environment.
@@ -16,9 +15,8 @@ The main contributions of this work include:
 
 
 ## Table of Contents
-- [Cooperative Multi-Agent Collision Avoidance with Attentive Graph Networks and Global Path Integration](#cooperative-multi-agent-collision-avoidance-with-attentive-graph-networks-and-global-path-integration)
-  - [🚨 **Paper Under Review** 🚨](#-paper-under-review-)
-    - [**Everything will be visible when accepted.**](#everything-will-be-visible-when-accepted)
+- [GIANT - Global Path Integration and Attentive Graph Networks for Multi-Agent Trajectory Planning](#giant---global-path-integration-and-attentive-graph-networks-for-multi-gent-trajectory-planning)
+  - [🚨 **Code comming soon** 🚨](#code-comming-soon)
   - [Table of Contents](#table-of-contents)
   - [Problem Statement](#problem-statement)
   - [Our Solution](#our-solution)
